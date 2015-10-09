@@ -1,0 +1,14 @@
+<div>List of Famous American Writers</div>
+ <ul>
+ <li ng-repeat="writer in writers">
+<div class="dropdown">
+ <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">{{writer.name}}
+</button>
+<ul class="dropdown-menu">
+ <p><a href="#/writers/{{writer.id}}">{{writer.name}}</a></p>
+ <li ng-repeat="book in writer.bibliography"><a href="#/books/{{book.bookId}}">{{book.title}}</a></li>
+</ul>
+</div>
+ </li>
+ </ul>
+</div>

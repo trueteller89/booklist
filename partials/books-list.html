@@ -1,0 +1,7 @@
+<p>List of Books</p>
+<div>
+        <li ng-repeat="book in books">
+          <a href="#/books/{{book.bookId}}">{{book.title}}</a>
+          <a href="#/writers/{{book.authorId}}">[{{book.author}}]</a>
+        </li>
+</div>

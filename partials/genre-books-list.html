@@ -1,0 +1,12 @@
+<select ng-model="book.genre">
+<option>Novel</option>
+<option>Narrative</option>
+<option>Story</option>
+</select>
+
+<div>
+        <li ng-repeat="book in books | filter:book">
+          <a href="#/books/{{book.bookId}}">{{book.title}}</a>
+          <a href="#/writers/{{book.authorId}}">[{{book.author}}]</a>
+        </li>
+</div>

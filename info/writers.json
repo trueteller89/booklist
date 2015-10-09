@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Ernest Hemingway", 
+        "id": 10,
+        "biography": "Ernest Miller Hemingway (July 21, 1899-July 2, 1961) was an American novelist, story writer, and journalist. His economical and understated style had a strong influence on 20th-century fiction, while his life of adventure and his public image influenced later generations. Hemingway produced most of his work between the mid-1920s and the mid-1950s, and won the Nobel Prize in Literature in 1954. He published seven novels, six story collections, and two non-fiction works. Additional works, including three novels, four story collections, and three non-fiction works, were published posthumously. Many of his works are considered classics of American literature.",
+        "bibliography":[
+{
+"title":"The Old Man and the Sea",
+"genre":"Narrative",
+"bookId":1001,
+"snippet":"The Old Man and the Sea is a novel written by the American author Ernest Hemingway in 1951 in Bimini, Bahamas, and published in 1952. It was the last major work of fiction to be produced by Hemingway and published in his lifetime. One of his most famous works, it centers upon Santiago, an aging fisherman who struggles with a giant marlin far out in the Gulf Stream.[2] The Old Man and the Sea was awarded the Pulitzer Prize for Fiction in 1953 and was cited by the Nobel Committee as contributing to the awarding of the Nobel Prize in Literature to Hemingway in 1954."
+},
+{
+"title":"For Whom the Bell Tolls",
+"genre":"Novel",
+"bookId":1002,
+"snippet":"For Whom the Bell Tolls is a novel by Ernest Hemingway published in 1940. It tells the story of Robert Jordan, a young American in the International Brigades attached to a republican guerrilla unit during the Spanish Civil War. As a dynamiter, he is assigned to blow up a bridge during an attack on the city of Segovia."
+}
+] 
+    } ,
+    {
+        "name": "John Steinbeck", 
+        "id": 11,
+        "biography": "John Ernst Steinbeck, Jr. (February 27, 1902-December 20, 1968) was an American author of twenty-seven books, including sixteen novels, six non-fiction books, and five collections of short stories. He is widely known for the comic novels Tortilla Flat (1935) and Cannery Row (1945), the multi-generation epic East of Eden (1952), and the Narratives Of Mice and Men (1937) and The Red Pony (1937). The Pulitzer Prize-winning The Grapes of Wrath (1939), widely attributed to be part of the American literary canon, is considered Steinbeck's masterpiece. In the first 75 years since it was published, it sold 14 million copies.",
+        "bibliography":[
+{
+"title":"The Red Pony",
+"genre":"Narrative",
+"bookId":1101,
+"snippet":"The Red Pony is an episodic Narrative written by American writer John Steinbeck in 1933. The first three chapters were published in magazines from 1933-1936, and the full book was published in 1937 by Covici Friede. The stories in the book are tales of a boy named Jody Tiflin. The book has four different stories about Jody and his life on his father's California ranch. Other main characters include Carl Tiflin - Jody's father; Billy Buck - an expert in horses and a working hand on the ranch; Mrs. Tiflin - Jody's mother; Jody's grandfather - Mrs. Tiflin's father, who has a history of crossing the Oregon Trail, and enjoys telling stories about his experiences; and Gitano - an old man who wishes to die at the Tiflin ranch. Along with these stories, there is a story (taken from one of Steinbeck's earlier works, The Pastures of Heaven). However, this last story is omitted in the edition published by Penguin Books."
+},
+{
+"title":"East of Eden",
+"genre":"Novel",
+"bookId":1102,
+"snippet":"East of Eden is a novel by Nobel Prize winner John Steinbeck, published in September 1952. Often described as Steinbeck's most ambitious novel, East of Eden brings to life the intricate details of two families, the Trasks and the Hamiltons, and their interwoven stories. The novel was originally addressed to Steinbeck's young sons, Thom and John (then 6 and 4 years old, respectively). Steinbeck wanted to describe the Salinas Valley for them in detail: the sights, sounds, smells, and colors."
+}
+] 
+    },
+	{
+        "name": "Francis Scott Fitzgerald", 
+        "id": 12,
+        "biography": "Francis Scott Key Fitzgerald (September 24, 1896-December 21, 1940) was an American novelist and story writer, whose works are the paradigmatic writings of the Jazz Age. He is widely regarded as one of the greatest American writers of the 20th century. Fitzgerald is considered a member of the Lost Generation of the 1920s. He finished four novels: This Side of Paradise, The Beautiful and Damned, The Great Gatsby (his best known), and Tender Is the Night. A fifth, unfinished novel, The Love of the Last Tycoon, was published posthumously. Fitzgerald also wrote many short stories that treat themes of youth and promise along with age and despair.",
+        "bibliography":[
+{
+"title":"The Great Gatsby",
+"genre":"Novel",
+"bookId":1201,
+"snippet":"The Great Gatsby is a 1925 novel written by American author F. Scott Fitzgerald that follows a cast of characters living in the fictional town of West Egg on prosperous Long Island in the summer of 1922. The story primarily concerns the young and mysterious millionaire Jay Gatsby and his quixotic passion and obsession for the beautiful former debutante Daisy Buchanan. Considered to be Fitzgerald's magnum opus, The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream."
+},
+{
+"title":"The Beautiful and Damned",
+"genre":"Novel",
+"bookId":1202,
+"snippet":"The Beautiful and Damned, first published by Scribner's in 1922, is F. Scott Fitzgerald's second novel. It portrays the Eastern elite during the Jazz Age, exploring New York cafe society.[1] As in Fitzgerald's other novels, the characters are complex, especially with respect to marriage and intimacy. The book is generally considered to be largely based on Fitzgerald's relationship with Zelda Fitzgerald."
+}
+] 
+    },
+	 {
+        "name": "Edgar Allan Poe", 
+        "id": 13,
+        "biography": "Edgar Allan Poe (January 19, 1809-October 7, 1849) was an American author, poet, editor, and literary critic, widely regarded as a central figure of Romanticism in the United States and American literature as a whole. Best known for his tales of mystery and the macabre, Poe was one of the earliest American practitioners of the story, and is generally considered the inventor of the detective fiction genre. He is further credited with contributing to the emerging genre of science fiction. He was the first well-known American writer to try to earn a living through writing alone, resulting in a financially difficult life and career.",
+        "bibliography":[
+{
+"title":"The Black Cat",
+"genre":"Story",
+"bookId":1301,
+"snippet":"The Black Cat is a story by Edgar Allan Poe. It was first published in the August 19, 1843, edition of The Saturday Evening Post. It is a study of the psychology of guilt, often paired in analysis with Poe's The Tell-Tale Heart. In both, a murderer carefully conceals his crime and believes himself unassailable, but eventually breaks down and reveals himself, impelled by a nagging reminder of his guilt."
+},
+{
+"title":"The Fall of the House of Usher",
+"genre":"Story",
+"bookId":1302,
+"snippet":"The Fall of the House of Usher is a story by Edgar Allan Poe first published in 1839."
+},
+{
+"title":"The Masque of the Red Death",
+"genre":"Story",
+"bookId":1303,
+"snippet":"The Masque of the Red Death, originally published as The Mask of the Red Death: A Fantasy (1842), is a story by Edgar Allan Poe. The story follows Prince Prospero's attempts to avoid a dangerous plague known as the Red Death by hiding in his abbey. He, along with many other wealthy nobles, has a masquerade ball within seven rooms of his abbey, each decorated with a different color. In the midst of their revelry, a mysterious figure disguised as a Red Death victim enters and makes his way through each of the rooms. Prospero dies after confronting this stranger, whose costume proves to have nothing tangible inside it; the guests also die in turn."
+}
+] 
+    },
+	 {
+        "name": "Mark Twain", 
+        "id": 14,
+        "biography": "Samuel Langhorne Clemens (November 30, 1835-April 21, 1910), better known by his pen name Mark Twain, was an American author and humorist. He wrote The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1885), the latter often called The Great American Novel.",
+        "bibliography":[
+{
+"title":"The Adventures of Tom Sawyer",
+"genre":"Novel",
+"bookId":1401,
+"snippet":"The Adventures of Tom Sawyer by Mark Twain is an 1876 novel about a young boy growing up along the Mississippi River. It is set in the fictional town of St. Petersburg, inspired by Hannibal, Missouri, where Twain lived."
+},
+{
+"title":"Adventures of Huckleberry Finn",
+"genre":"Novel",
+"bookId":1402,
+"snippet":"Adventures of Huckleberry Finn is a novel by Mark Twain, first published in the United Kingdom in December 1884 and in the United States in February 1885. Commonly named among the Great American Novels, the work is among the first in major American literature to be written throughout in vernacular English, characterized by local color regionalism. It is told in the first person by Huckleberry Huck Finn, a friend of Tom Sawyer and narrator of two other Twain novels (Tom Sawyer Abroad and Tom Sawyer, Detective). It is a direct sequel to The Adventures of Tom Sawyer."
+},
+{
+"title":"The War Prayer",
+"genre":"Story",
+"bookId":1403,
+"snippet":"A story or prose poem by Mark Twain, is a scathing indictment of war, and particularly of blind patriotic and religious fervor as motivations for war. The structure of the work is simple: An unnamed country goes to war, and patriotic citizens attend a church service for soldiers who have been called up. The people call upon their God to grant them victory and protect their troops. Suddenly, an aged stranger appears and announces that he is God's messenger. He explains to them that he is there to speak aloud the second part of their prayer for victory, the part which they have implicitly wished for but have not spoken aloud themselves: the prayer for the suffering and destruction of their enemies. What follows is a grisly depiction of hardships inflicted on war-torn nations by their conquerors. The story ends with the man being ignored."
+}
+] 
+    }
+]

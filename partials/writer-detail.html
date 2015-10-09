@@ -1,0 +1,8 @@
+    <p></p>
+	<div>
+
+          <p >{{writer.name}}</p>
+          <p>{{writer.biography}}</p>
+		  <p ng-repeat="book in writer.bibliography"><a href="#/books/{{book.bookId}}">{{book.title}}</a></p>
+
+    </div>
